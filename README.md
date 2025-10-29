@@ -635,7 +635,7 @@ cd /opt/fn-mileage/exporter && sudo docker compose up -d --build && sudo docker 
 
 ```
 
-##2) How to run (common commands)
+## 2) How to run (common commands)
 
 Check API health
 ```
